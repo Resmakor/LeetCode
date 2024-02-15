@@ -4,7 +4,11 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
-        n = str(bin(n)).lstrip("0b")
-        return n.count("1")
+        counter = 0
+        while n != 0:
+            if n % 2 != 0:
+                counter += 1
+            n /= 2
+        return counter
         
         
