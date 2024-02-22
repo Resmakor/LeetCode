@@ -5,6 +5,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        counter = Counter(nums)
-        return counter.most_common(1)[0][0]
+        nums.sort()
+        size = len(nums)
+        return nums[size // 2]
         
