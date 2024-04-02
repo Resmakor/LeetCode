@@ -4,10 +4,9 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
-        list_of_substrings = []
-        for i in range(len(s) - 1):
-            list_of_substrings.append(s[i] + s[i + 1])
-        for substring in list_of_substrings:
-            if substring in s[::-1]:
+        reversed_s = s[::-1]
+        s_size = len(s)
+        for i in range(s_size - 1):
+            if s[i] + s[i + 1] in reversed_s:
                 return True
         return False
