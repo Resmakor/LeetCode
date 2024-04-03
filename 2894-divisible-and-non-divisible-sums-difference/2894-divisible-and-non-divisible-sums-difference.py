@@ -5,12 +5,12 @@ class Solution(object):
         :type m: int
         :rtype: int
         """
-        divisible = []
-        not_divisible = []
+        divisible = 0
+        not_divisible = 0
         for i in range(1, n + 1):
             if i % m == 0:
-                divisible.append(i)
+                divisible += i
             else:
-                not_divisible.append(i)
-        return sum(not_divisible) - sum(divisible)
+                not_divisible += i
+        return not_divisible - divisible
             
