@@ -12,7 +12,7 @@ class Solution(object):
         stack = []
         for char in s:
             if char == '(' or char == '{' or char == '[':
-                stack.append(str(char))
+                stack.append(char)
                 continue
             elif stack and brackets[stack[-1]] == char:
                 stack.pop()
