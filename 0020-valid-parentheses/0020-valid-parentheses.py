@@ -9,8 +9,6 @@ class Solution(object):
             '(': ')',
             '[': ']'
         }
-        if len(s) == 1:
-            return 0
         stack = []
         for char in s:
             if char == '(' or char == '{' or char == '[':
