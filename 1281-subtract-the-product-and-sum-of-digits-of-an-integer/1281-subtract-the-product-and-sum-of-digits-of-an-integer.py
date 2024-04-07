@@ -6,7 +6,9 @@ class Solution(object):
         """
         n_product = 1
         n_sum = 0
-        for digit in str(n):
-            n_product *= int(digit)
-            n_sum += int(digit)
+        while n != 0:
+            digit = n % 10
+            n //= 10
+            n_product *= digit
+            n_sum += digit
         return n_product - n_sum
