@@ -5,8 +5,7 @@ class Solution(object):
         :type goal: int
         :rtype: int
         """
-        xor = start ^ goal
-        xor_bin = bin(xor).strip('0b')
+        xor_bin = bin(start ^ goal).strip('0b')
         counter = 0
         for digit in xor_bin:
             if digit == '1':
