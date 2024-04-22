@@ -5,6 +5,7 @@ class Solution(object):
         :rtype: int
         """
         score = 0
-        for i in range(len(s) - 1):
+        s_size = len(s)
+        for i in range(s_size - 1):
             score += abs(ord(s[i]) - ord(s[i + 1]))
         return score
