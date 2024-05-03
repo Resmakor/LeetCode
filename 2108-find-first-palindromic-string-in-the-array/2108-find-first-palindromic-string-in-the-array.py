@@ -1,7 +1,8 @@
 class Solution(object):
     def ifPalindrome(self, word):
-        for i in range(len(word) // 2):
-            if word[i] != word[len(word) - 1 - i]:
+        size = len(word)
+        for i in range(size // 2):
+            if word[i] != word[size - 1 - i]:
                 return False
         return True
     def firstPalindrome(self, words):
