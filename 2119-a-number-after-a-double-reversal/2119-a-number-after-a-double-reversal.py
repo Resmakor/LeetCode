@@ -4,10 +4,6 @@ class Solution(object):
         :type num: int
         :rtype: bool
         """
-        if num == 0:
-            return True
-        str_num = str(num)
-        reversed_1 = str_num[::-1].lstrip('0')
-        return reversed_1 == str_num[::-1]
+        return True if num == 0 else str(num)[::-1].lstrip('0') == str(num)[::-1]
                 
         
