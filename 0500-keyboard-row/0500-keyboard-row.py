@@ -15,20 +15,12 @@ class Solution(object):
             for letter in word:
                 if letter.lower() not in first_row:
                     first_flag = False
-            if first_flag == True:
+                if letter.lower() not in second_row:
+                    second_flag = False
+                if letter.lower() not in third_row:
+                    third_flag = False
+            if first_flag or second_flag or third_flag:
                 output.append(word)
-            else:
-                for letter in word:
-                    if letter.lower() not in second_row:
-                        second_flag = False
-                if second_flag == True:
-                    output.append(word)
-                else:
-                    for letter in word:
-                        if letter.lower() not in third_row:
-                            third_flag = False
-                    if third_flag == True:
-                        output.append(word)
             first_flag = True
             second_flag = True
             third_flag = True
