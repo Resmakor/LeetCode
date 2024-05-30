@@ -8,6 +8,6 @@ class Solution(object):
         output = []
         for word in words:
             splitted = word.split(separator)
-            not_null = [splitted_word for splitted_word in splitted if splitted_word != ""]
-            output.extend(not_null)
+            splitted_not_null = [splitted_word for splitted_word in splitted if splitted_word != ""]
+            output.extend(splitted_not_null)
         return output
