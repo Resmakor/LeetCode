@@ -7,8 +7,5 @@ class Solution(object):
         """
         output = [first]
         for element in encoded:
-            if len(output) == 1:  
-                output.append(element ^ first)
-            else:
-                output.append(output[-1] ^ element)
+            output.append(output[-1] ^ element)
         return output
