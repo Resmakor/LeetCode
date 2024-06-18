@@ -5,7 +5,8 @@ class Solution(object):
         :rtype: List[int]
         """
         answer = []
-        for i in range(len(nums)):
+        nums_size = len(nums)
+        for i in range(nums_size):
             answer.append(abs(sum(nums[0:i]) - sum(nums[i + 1:])))
         return answer
             
