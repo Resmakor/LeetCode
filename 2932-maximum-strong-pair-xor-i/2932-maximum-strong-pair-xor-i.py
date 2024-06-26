@@ -7,8 +7,10 @@ class Solution(object):
         strong_pairs = []
         for i in range(len(nums)):
             for j in range(len(nums)):
-                if abs(nums[i] - nums[j]) <= min(nums[i], nums[j]):
-                    strong_pairs.append([nums[i], nums[j]])
+                num1 = nums[i]
+                num2 = nums[j]
+                if abs(num1 - num2) <= min(num1, num2):
+                    strong_pairs.append([num1, num2])
         max_xor = 0
         for element in strong_pairs:
             pair_xor = element[0] ^ element[1]
