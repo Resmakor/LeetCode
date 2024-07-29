@@ -7,13 +7,9 @@ class Solution(object):
         """
         output = []
         for element in arr2:
-            i = 0
-            while i < len(arr1):
-                if arr1[i] == element:
-                    output.append(element)
-                    arr1.pop(i)
-                else:
-                    i += 1
+            while element in arr1:
+                output.append(element)
+                arr1.remove(element)
         arr1.sort()
         output.extend(arr1)
         return output
