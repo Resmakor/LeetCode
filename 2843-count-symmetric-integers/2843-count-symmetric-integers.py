@@ -9,7 +9,6 @@ class Solution(object):
         for i in range(low, high + 1, 1):
             i_str = str(i)
             i_str_len = len(i_str)
-            print(i)
             if i_str_len % 2 == 0:
                 n = i_str_len // 2
                 first_part = sum([int(x) for x in list(i_str[0:n])])
