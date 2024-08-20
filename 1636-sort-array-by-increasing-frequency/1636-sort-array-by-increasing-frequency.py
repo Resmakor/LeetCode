@@ -11,7 +11,6 @@ class Solution(object):
             else:
                 frequencies[element] += 1
         sorted_freq = sorted(frequencies.items(), key=lambda x:x[1])
-        
         for j in range(len(sorted_freq) - 1):
             flag = True
             for i in range(len(sorted_freq) - 1):
@@ -24,4 +23,3 @@ class Solution(object):
         for element in sorted_freq:
             output.extend([element[0]] * element[1])
         return output
-        #sub_li.sort(key = lambda x: x[1])
