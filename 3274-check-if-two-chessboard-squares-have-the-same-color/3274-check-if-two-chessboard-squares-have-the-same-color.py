@@ -5,6 +5,4 @@ class Solution(object):
         :type coordinate2: str
         :rtype: bool
         """
-        coord1 = ord(coordinate1[0]) + ord(coordinate1[1])
-        coord2 = ord(coordinate2[0]) + ord(coordinate2[1])
-        return coord1 % 2 == coord2 % 2
+        return (ord(coordinate1[0]) + ord(coordinate1[1])) % 2 == (ord(coordinate2[0]) + ord(coordinate2[1])) % 2
