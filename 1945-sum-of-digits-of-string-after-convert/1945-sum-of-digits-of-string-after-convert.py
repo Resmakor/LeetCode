@@ -9,6 +9,5 @@ class Solution(object):
         for element in s:
             output += str(ord(element) - 96)
         for i in range(k):
-            output_sum = sum([int(element) for element in output])
-            output = str(output_sum)
-        return output_sum
+            output = sum([int(element) for element in str(output)])
+        return output
