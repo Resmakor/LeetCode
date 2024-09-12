@@ -7,7 +7,7 @@ class Solution(object):
         single_sum = 0
         double_sum = 0
         for element in nums:
-            if len(str(element)) == 2:
+            if element >= 10:
                 double_sum += element
             else:
                 single_sum += element
