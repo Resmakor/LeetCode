@@ -4,8 +4,7 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        counter = 0
-        maximum = 0
+        counter, maximum = 0, 0
         for character in s:
             if character == ')':
                 counter -= 1
