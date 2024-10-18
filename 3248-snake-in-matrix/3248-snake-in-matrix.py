@@ -12,7 +12,6 @@ class Solution(object):
                 temp_list.append(counter)
                 counter += 1
             matrix.append(temp_list)
-        print(matrix)
         i, j = 0, 0
         for command in commands:
             if command == "UP":
