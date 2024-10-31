@@ -9,8 +9,8 @@ class Solution(object):
         output = 0
         for x in range(limit + 1):
             for y in range(limit + 1):
-                for z in range(limit + 1):
-                    if x + y + z == n:
+                z = n - x - y
+                if x + y + z == n and z >= 0 and z <= limit:
                         output += 1
         return output
             
