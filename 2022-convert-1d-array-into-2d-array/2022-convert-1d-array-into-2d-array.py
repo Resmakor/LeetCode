@@ -8,8 +8,7 @@ class Solution(object):
         """
         if m * n != len(original):
             return []
-        output = []
-        counter = 0
+        output, counter = [], 0
         for i in range(m):
             temp_list = []
             for j in range(n):
