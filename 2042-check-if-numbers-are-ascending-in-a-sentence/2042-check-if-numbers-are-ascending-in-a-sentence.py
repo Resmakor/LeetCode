@@ -5,7 +5,8 @@ class Solution(object):
         :rtype: bool
         """
         numbers = []
-        for word in s.split():
+        s = s.split()
+        for word in s:
             current_number = ""
             for letter in word:
                 if letter < '0' or letter > '9':
@@ -15,8 +16,7 @@ class Solution(object):
                     current_number += letter
             if current_number != "":
                 numbers.append(current_number)  
-        numbers = [int(element) for element in numbers]
         for i in range(len(numbers) - 1):
-            if numbers[i] >= numbers[i + 1]:
+            if int(numbers[i]) >= int(numbers[i + 1]):
                 return False
         return True
