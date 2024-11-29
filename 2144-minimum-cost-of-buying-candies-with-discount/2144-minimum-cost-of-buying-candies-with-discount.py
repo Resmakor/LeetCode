@@ -4,12 +4,13 @@ class Solution(object):
         :type cost: List[int]
         :rtype: int
         """
-        if len(cost) <= 2:
+        cost_size = len(cost)
+        if cost_size <= 2:
             return sum(cost)
         cost.sort(reverse=True)
         output = 0
-        for i in range(0, len(cost), 3):
-            if i + 1 < len(cost):
+        for i in range(0, cost_size, 3):
+            if i + 1 < cost_size:
                 output += cost[i] + cost[i + 1]
             else:
                 output += cost[i]
