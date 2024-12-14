@@ -17,4 +17,3 @@ class Solution(object):
         if minimum != [-1]:
             return minimum[1]
         return -1
-                
