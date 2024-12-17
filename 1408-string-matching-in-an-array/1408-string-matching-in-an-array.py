@@ -5,7 +5,7 @@ class Solution(object):
         :rtype: List[str]
         """
         output = []
-        #words.sort()
+        words.sort()
         for i in range(len(words)):
             for j in range(0, len(words)):
                 if i == j:
