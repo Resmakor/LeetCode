@@ -6,7 +6,7 @@ class Solution(object):
         """
         stack = []
         for element in s:
-            if len(stack) > 0 and stack[-1] == element:
+            if stack and stack[-1] == element:
                 stack.pop()
             else:
                 stack.append(element)
