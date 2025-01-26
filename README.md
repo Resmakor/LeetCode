@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/Resmakor/LeetCode/tree/master/0495-teemo-attacking) |
+| [0792-binary-search](https://github.com/Resmakor/LeetCode/tree/master/0792-binary-search) |
 | [1306-minimum-absolute-difference](https://github.com/Resmakor/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Resmakor/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Sorting
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0792-binary-search](https://github.com/Resmakor/LeetCode/tree/master/0792-binary-search) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Resmakor/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Simulation
 |  |
