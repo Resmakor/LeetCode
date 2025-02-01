@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Resmakor/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [2024-calculate-special-bonus](https://github.com/Resmakor/LeetCode/tree/master/2024-calculate-special-bonus) |
 ## Hash Table
 |  |
 | ------- |
