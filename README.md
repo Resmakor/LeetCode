@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/Resmakor/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/Resmakor/LeetCode/tree/master/0504-base-7) |
 | [2032-largest-odd-number-in-string](https://github.com/Resmakor/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2083-three-divisors](https://github.com/Resmakor/LeetCode/tree/master/2083-three-divisors) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Resmakor/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Resmakor/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/Resmakor/LeetCode/tree/master/2955-account-balance-after-rounded-purchase) |
@@ -120,4 +121,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Resmakor/LeetCode/tree/master/0389-find-the-difference) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/Resmakor/LeetCode/tree/master/2083-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/Resmakor/LeetCode/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
