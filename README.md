@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Resmakor/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0495-teemo-attacking](https://github.com/Resmakor/LeetCode/tree/master/0495-teemo-attacking) |
 | [0724-find-pivot-index](https://github.com/Resmakor/LeetCode/tree/master/0724-find-pivot-index) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Resmakor/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Resmakor/LeetCode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/Resmakor/LeetCode/tree/master/0890-lemonade-change) |
 | [1306-minimum-absolute-difference](https://github.com/Resmakor/LeetCode/tree/master/1306-minimum-absolute-difference) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Resmakor/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Resmakor/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Resmakor/LeetCode/tree/master/0792-binary-search) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Resmakor/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Simulation
