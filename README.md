@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/Resmakor/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Resmakor/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Resmakor/LeetCode/tree/master/2372-rearrange-characters-to-make-target-string) |
+| [2391-strong-password-checker-ii](https://github.com/Resmakor/LeetCode/tree/master/2391-strong-password-checker-ii) |
 | [2547-odd-string-difference](https://github.com/Resmakor/LeetCode/tree/master/2547-odd-string-difference) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Resmakor/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Greedy
