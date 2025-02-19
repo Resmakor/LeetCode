@@ -13,7 +13,7 @@ class Solution(object):
         """
         l, r = 1, n
         while True:
-            pick = l + (r - l) // 2
+            pick = (r + l) // 2
             result = guess(pick)
             if result == 0:
                 return pick
