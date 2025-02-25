@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Resmakor/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Resmakor/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2547-odd-string-difference](https://github.com/Resmakor/LeetCode/tree/master/2547-odd-string-difference) |
+| [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Resmakor/LeetCode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Resmakor/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2902-max-pair-sum-in-an-array](https://github.com/Resmakor/LeetCode/tree/master/2902-max-pair-sum-in-an-array) |
 | [3324-split-the-array](https://github.com/Resmakor/LeetCode/tree/master/3324-split-the-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Resmakor/LeetCode/tree/master/0389-find-the-difference) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Resmakor/LeetCode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2547-odd-string-difference](https://github.com/Resmakor/LeetCode/tree/master/2547-odd-string-difference) |
+| [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Resmakor/LeetCode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Resmakor/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2902-max-pair-sum-in-an-array](https://github.com/Resmakor/LeetCode/tree/master/2902-max-pair-sum-in-an-array) |
 | [3324-split-the-array](https://github.com/Resmakor/LeetCode/tree/master/3324-split-the-array) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/Resmakor/LeetCode/tree/master/2083-three-divisors) |
+| [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Resmakor/LeetCode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 ## Number Theory
 |  |
 | ------- |
