@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0492-construct-the-rectangle](https://github.com/Resmakor/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/Resmakor/LeetCode/tree/master/0504-base-7) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Resmakor/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2032-largest-odd-number-in-string](https://github.com/Resmakor/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2083-three-divisors](https://github.com/Resmakor/LeetCode/tree/master/2083-three-divisors) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Resmakor/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
