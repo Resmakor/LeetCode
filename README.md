@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-minimum-distance-to-the-target-element](https://github.com/Resmakor/LeetCode/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Resmakor/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Resmakor/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2398-check-if-matrix-is-x-matrix](https://github.com/Resmakor/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2547-odd-string-difference](https://github.com/Resmakor/LeetCode/tree/master/2547-odd-string-difference) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Resmakor/LeetCode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Resmakor/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
@@ -167,4 +168,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1041-available-captures-for-rook](https://github.com/Resmakor/LeetCode/tree/master/1041-available-captures-for-rook) |
+| [2398-check-if-matrix-is-x-matrix](https://github.com/Resmakor/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
 <!---LeetCode Topics End-->
