@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Resmakor/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2486-most-frequent-even-element](https://github.com/Resmakor/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2547-odd-string-difference](https://github.com/Resmakor/LeetCode/tree/master/2547-odd-string-difference) |
+| [2634-minimum-common-value](https://github.com/Resmakor/LeetCode/tree/master/2634-minimum-common-value) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Resmakor/LeetCode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/Resmakor/LeetCode/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Resmakor/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Resmakor/LeetCode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2486-most-frequent-even-element](https://github.com/Resmakor/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2547-odd-string-difference](https://github.com/Resmakor/LeetCode/tree/master/2547-odd-string-difference) |
+| [2634-minimum-common-value](https://github.com/Resmakor/LeetCode/tree/master/2634-minimum-common-value) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Resmakor/LeetCode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Resmakor/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2902-max-pair-sum-in-an-array](https://github.com/Resmakor/LeetCode/tree/master/2902-max-pair-sum-in-an-array) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Resmakor/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Resmakor/LeetCode/tree/master/0455-assign-cookies) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Resmakor/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [2634-minimum-common-value](https://github.com/Resmakor/LeetCode/tree/master/2634-minimum-common-value) |
 ## Binary Search
 |  |
 | ------- |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Resmakor/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Resmakor/LeetCode/tree/master/0792-binary-search) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Resmakor/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [2634-minimum-common-value](https://github.com/Resmakor/LeetCode/tree/master/2634-minimum-common-value) |
 ## Simulation
 |  |
 | ------- |
