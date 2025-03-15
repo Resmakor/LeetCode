@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/Resmakor/LeetCode/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Resmakor/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2902-max-pair-sum-in-an-array](https://github.com/Resmakor/LeetCode/tree/master/2902-max-pair-sum-in-an-array) |
+| [3165-find-indices-with-index-and-value-difference-i](https://github.com/Resmakor/LeetCode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3324-split-the-array](https://github.com/Resmakor/LeetCode/tree/master/3324-split-the-array) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Resmakor/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3723-sum-of-good-numbers](https://github.com/Resmakor/LeetCode/tree/master/3723-sum-of-good-numbers) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Resmakor/LeetCode/tree/master/0455-assign-cookies) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Resmakor/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2634-minimum-common-value](https://github.com/Resmakor/LeetCode/tree/master/2634-minimum-common-value) |
+| [3165-find-indices-with-index-and-value-difference-i](https://github.com/Resmakor/LeetCode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 ## Binary Search
 |  |
 | ------- |
