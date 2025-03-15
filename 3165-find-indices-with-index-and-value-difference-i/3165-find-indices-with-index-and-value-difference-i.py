@@ -6,11 +6,8 @@ class Solution(object):
         :type valueDifference: int
         :rtype: List[int]
         """
-        answers = []
         for i in range(len(nums)):
             for j in range(len(nums)):
                 if abs(i - j) >= indexDifference and abs(nums[i] - nums[j]) >= valueDifference:
-                    answers.append([i, j])
-        if len(answers) == 0:
-            return [-1, -1]
-        return answers[0]
+                    return [i, j]
+        return [-1, -1]
