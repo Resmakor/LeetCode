@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2955-account-balance-after-rounded-purchase](https://github.com/Resmakor/LeetCode/tree/master/2955-account-balance-after-rounded-purchase) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Resmakor/LeetCode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Resmakor/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3817-maximum-containers-on-a-ship](https://github.com/Resmakor/LeetCode/tree/master/3817-maximum-containers-on-a-ship) |
 ## String
 |  |
 | ------- |
