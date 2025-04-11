@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Resmakor/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-more-than-5-students](https://github.com/Resmakor/LeetCode/tree/master/0596-classes-more-than-5-students) |
 | [1161-project-employees-i](https://github.com/Resmakor/LeetCode/tree/master/1161-project-employees-i) |
+| [1670-patients-with-a-condition](https://github.com/Resmakor/LeetCode/tree/master/1670-patients-with-a-condition) |
 | [2024-calculate-special-bonus](https://github.com/Resmakor/LeetCode/tree/master/2024-calculate-special-bonus) |
 ## Hash Table
 |  |
