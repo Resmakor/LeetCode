@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Resmakor/LeetCode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Resmakor/LeetCode/tree/master/0412-fizz-buzz) |
 | [1297-maximum-number-of-balloons](https://github.com/Resmakor/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+| [1542-consecutive-characters](https://github.com/Resmakor/LeetCode/tree/master/1542-consecutive-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/Resmakor/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2154-minimum-moves-to-convert-string](https://github.com/Resmakor/LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Resmakor/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
