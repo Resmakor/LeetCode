@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Resmakor/LeetCode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3324-split-the-array](https://github.com/Resmakor/LeetCode/tree/master/3324-split-the-array) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Resmakor/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3463-alternating-groups-i](https://github.com/Resmakor/LeetCode/tree/master/3463-alternating-groups-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Resmakor/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Resmakor/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3723-sum-of-good-numbers](https://github.com/Resmakor/LeetCode/tree/master/3723-sum-of-good-numbers) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Resmakor/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3463-alternating-groups-i](https://github.com/Resmakor/LeetCode/tree/master/3463-alternating-groups-i) |
 ## Two Pointers
 |  |
 | ------- |
