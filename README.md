@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-project-employees-i](https://github.com/Resmakor/LeetCode/tree/master/1161-project-employees-i) |
 | [1174-sales-analysis-iii](https://github.com/Resmakor/LeetCode/tree/master/1174-sales-analysis-iii) |
 | [1301-reformat-department-table](https://github.com/Resmakor/LeetCode/tree/master/1301-reformat-department-table) |
+| [1664-find-users-with-valid-e-mails](https://github.com/Resmakor/LeetCode/tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/Resmakor/LeetCode/tree/master/1670-patients-with-a-condition) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Resmakor/LeetCode/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [2024-calculate-special-bonus](https://github.com/Resmakor/LeetCode/tree/master/2024-calculate-special-bonus) |
