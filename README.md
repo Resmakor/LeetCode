@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Resmakor/LeetCode/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [2024-calculate-special-bonus](https://github.com/Resmakor/LeetCode/tree/master/2024-calculate-special-bonus) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Resmakor/LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |
+| [3782-find-valid-emails](https://github.com/Resmakor/LeetCode/tree/master/3782-find-valid-emails) |
 | [3803-find-products-with-valid-serial-numbers](https://github.com/Resmakor/LeetCode/tree/master/3803-find-products-with-valid-serial-numbers) |
 ## Hash Table
 |  |
