@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Resmakor/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2032-largest-odd-number-in-string](https://github.com/Resmakor/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2083-three-divisors](https://github.com/Resmakor/LeetCode/tree/master/2083-three-divisors) |
+| [2481-strictly-palindromic-number](https://github.com/Resmakor/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Resmakor/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Resmakor/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Resmakor/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Resmakor/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Resmakor/LeetCode/tree/master/0455-assign-cookies) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Resmakor/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [2481-strictly-palindromic-number](https://github.com/Resmakor/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2634-minimum-common-value](https://github.com/Resmakor/LeetCode/tree/master/2634-minimum-common-value) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Resmakor/LeetCode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 ## Binary Search
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/Resmakor/LeetCode/tree/master/1086-divisor-game) |
+| [2481-strictly-palindromic-number](https://github.com/Resmakor/LeetCode/tree/master/2481-strictly-palindromic-number) |
 ## Game Theory
 |  |
 | ------- |
