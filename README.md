@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Resmakor/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Resmakor/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Resmakor/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Resmakor/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Resmakor/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Resmakor/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2486-most-frequent-even-element](https://github.com/Resmakor/LeetCode/tree/master/2486-most-frequent-even-element) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Resmakor/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Resmakor/LeetCode/tree/master/0455-assign-cookies) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Resmakor/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Resmakor/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2481-strictly-palindromic-number](https://github.com/Resmakor/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2634-minimum-common-value](https://github.com/Resmakor/LeetCode/tree/master/2634-minimum-common-value) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Resmakor/LeetCode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1041-available-captures-for-rook](https://github.com/Resmakor/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [2058-concatenation-of-array](https://github.com/Resmakor/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Resmakor/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Resmakor/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Resmakor/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Resmakor/LeetCode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Resmakor/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
