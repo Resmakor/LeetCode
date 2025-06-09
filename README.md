@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-sum-of-variable-length-subarrays](https://github.com/Resmakor/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Resmakor/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3778-transform-array-by-parity](https://github.com/Resmakor/LeetCode/tree/master/3778-transform-array-by-parity) |
+| [3832-minimum-cost-to-reach-every-position](https://github.com/Resmakor/LeetCode/tree/master/3832-minimum-cost-to-reach-every-position) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Resmakor/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Resmakor/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Sorting
