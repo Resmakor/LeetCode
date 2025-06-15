@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Resmakor/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Resmakor/LeetCode/tree/master/0455-assign-cookies) |
 | [0495-teemo-attacking](https://github.com/Resmakor/LeetCode/tree/master/0495-teemo-attacking) |
+| [0506-relative-ranks](https://github.com/Resmakor/LeetCode/tree/master/0506-relative-ranks) |
 | [0724-find-pivot-index](https://github.com/Resmakor/LeetCode/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Resmakor/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Resmakor/LeetCode/tree/master/0792-binary-search) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Resmakor/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Resmakor/LeetCode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Resmakor/LeetCode/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/Resmakor/LeetCode/tree/master/0506-relative-ranks) |
 | [1306-minimum-absolute-difference](https://github.com/Resmakor/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Resmakor/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Resmakor/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/Resmakor/LeetCode/tree/master/0506-relative-ranks) |
 | [1127-last-stone-weight](https://github.com/Resmakor/LeetCode/tree/master/1127-last-stone-weight) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Resmakor/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 ## Binary Search Tree
