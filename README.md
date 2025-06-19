@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Resmakor/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3463-alternating-groups-i](https://github.com/Resmakor/LeetCode/tree/master/3463-alternating-groups-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Resmakor/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Resmakor/LeetCode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Resmakor/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3723-sum-of-good-numbers](https://github.com/Resmakor/LeetCode/tree/master/3723-sum-of-good-numbers) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Resmakor/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-minimum-moves-to-convert-string](https://github.com/Resmakor/LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Resmakor/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Resmakor/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Resmakor/LeetCode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Database
 |  |
 | ------- |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1041-available-captures-for-rook](https://github.com/Resmakor/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Resmakor/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/Resmakor/LeetCode/tree/master/2675-find-the-width-of-columns-of-a-grid) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Resmakor/LeetCode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
