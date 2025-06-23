@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/Resmakor/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Resmakor/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Resmakor/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/Resmakor/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Resmakor/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Resmakor/LeetCode/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2058-concatenation-of-array](https://github.com/Resmakor/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0777-toeplitz-matrix](https://github.com/Resmakor/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [1041-available-captures-for-rook](https://github.com/Resmakor/LeetCode/tree/master/1041-available-captures-for-rook) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/Resmakor/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Resmakor/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/Resmakor/LeetCode/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [3330-modify-the-matrix](https://github.com/Resmakor/LeetCode/tree/master/3330-modify-the-matrix) |
