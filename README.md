@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Resmakor/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Resmakor/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Resmakor/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Resmakor/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2476-check-distances-between-same-letters](https://github.com/Resmakor/LeetCode/tree/master/2476-check-distances-between-same-letters) |
 | [2486-most-frequent-even-element](https://github.com/Resmakor/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2547-odd-string-difference](https://github.com/Resmakor/LeetCode/tree/master/2547-odd-string-difference) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Resmakor/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Resmakor/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Resmakor/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Resmakor/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3778-transform-array-by-parity](https://github.com/Resmakor/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3859-maximum-product-of-two-digits](https://github.com/Resmakor/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Resmakor/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/Resmakor/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2154-minimum-moves-to-convert-string](https://github.com/Resmakor/LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Resmakor/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Resmakor/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Resmakor/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Resmakor/LeetCode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Resmakor/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Resmakor/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Resmakor/LeetCode/tree/master/0792-binary-search) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Resmakor/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Resmakor/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2634-minimum-common-value](https://github.com/Resmakor/LeetCode/tree/master/2634-minimum-common-value) |
 ## Simulation
 |  |
@@ -286,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/Resmakor/LeetCode/tree/master/0724-find-pivot-index) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Resmakor/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Resmakor/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Resmakor/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Resmakor/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Geometry
