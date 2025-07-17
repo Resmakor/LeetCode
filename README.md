@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2391-strong-password-checker-ii](https://github.com/Resmakor/LeetCode/tree/master/2391-strong-password-checker-ii) |
 | [2476-check-distances-between-same-letters](https://github.com/Resmakor/LeetCode/tree/master/2476-check-distances-between-same-letters) |
 | [2547-odd-string-difference](https://github.com/Resmakor/LeetCode/tree/master/2547-odd-string-difference) |
+| [2580-circular-sentence](https://github.com/Resmakor/LeetCode/tree/master/2580-circular-sentence) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Resmakor/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Resmakor/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3617-find-the-original-typed-string-i](https://github.com/Resmakor/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
