@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1174-sales-analysis-iii](https://github.com/Resmakor/LeetCode/tree/master/1174-sales-analysis-iii) |
 | [1301-reformat-department-table](https://github.com/Resmakor/LeetCode/tree/master/1301-reformat-department-table) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/Resmakor/LeetCode/tree/master/1327-last-person-to-fit-in-the-bus) |
+| [1415-students-and-examinations](https://github.com/Resmakor/LeetCode/tree/master/1415-students-and-examinations) |
 | [1523-capital-gainloss](https://github.com/Resmakor/LeetCode/tree/master/1523-capital-gainloss) |
 | [1664-find-users-with-valid-e-mails](https://github.com/Resmakor/LeetCode/tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/Resmakor/LeetCode/tree/master/1670-patients-with-a-condition) |
