@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Resmakor/LeetCode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/Resmakor/LeetCode/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Resmakor/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
+| [2698-find-the-array-concatenation-value](https://github.com/Resmakor/LeetCode/tree/master/2698-find-the-array-concatenation-value) |
 | [2902-max-pair-sum-in-an-array](https://github.com/Resmakor/LeetCode/tree/master/2902-max-pair-sum-in-an-array) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Resmakor/LeetCode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Resmakor/LeetCode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Resmakor/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2481-strictly-palindromic-number](https://github.com/Resmakor/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2634-minimum-common-value](https://github.com/Resmakor/LeetCode/tree/master/2634-minimum-common-value) |
+| [2698-find-the-array-concatenation-value](https://github.com/Resmakor/LeetCode/tree/master/2698-find-the-array-concatenation-value) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Resmakor/LeetCode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 ## Binary Search
 |  |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Resmakor/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Resmakor/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Resmakor/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
+| [2698-find-the-array-concatenation-value](https://github.com/Resmakor/LeetCode/tree/master/2698-find-the-array-concatenation-value) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Resmakor/LeetCode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Resmakor/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/Resmakor/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
