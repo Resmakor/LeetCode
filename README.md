@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/Resmakor/LeetCode/tree/master/0979-di-string-match) |
 | [1297-maximum-number-of-balloons](https://github.com/Resmakor/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1542-consecutive-characters](https://github.com/Resmakor/LeetCode/tree/master/1542-consecutive-characters) |
+| [1666-make-the-string-great](https://github.com/Resmakor/LeetCode/tree/master/1666-make-the-string-great) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Resmakor/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2032-largest-odd-number-in-string](https://github.com/Resmakor/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2154-minimum-moves-to-convert-string](https://github.com/Resmakor/LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Resmakor/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Resmakor/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Resmakor/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1666-make-the-string-great](https://github.com/Resmakor/LeetCode/tree/master/1666-make-the-string-great) |
 ## Dynamic Programming
 |  |
 | ------- |
