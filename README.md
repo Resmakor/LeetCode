@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Resmakor/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3859-maximum-product-of-two-digits](https://github.com/Resmakor/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Resmakor/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Resmakor/LeetCode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## String
 |  |
 | ------- |
