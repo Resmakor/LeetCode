@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Resmakor/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2476-check-distances-between-same-letters](https://github.com/Resmakor/LeetCode/tree/master/2476-check-distances-between-same-letters) |
 | [2486-most-frequent-even-element](https://github.com/Resmakor/LeetCode/tree/master/2486-most-frequent-even-element) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/Resmakor/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2547-odd-string-difference](https://github.com/Resmakor/LeetCode/tree/master/2547-odd-string-difference) |
 | [2634-minimum-common-value](https://github.com/Resmakor/LeetCode/tree/master/2634-minimum-common-value) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Resmakor/LeetCode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Resmakor/LeetCode/tree/master/0389-find-the-difference) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Resmakor/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0899-binary-gap](https://github.com/Resmakor/LeetCode/tree/master/0899-binary-gap) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/Resmakor/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Resmakor/LeetCode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 ## Enumeration
 |  |
