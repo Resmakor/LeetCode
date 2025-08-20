@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1670-patients-with-a-condition](https://github.com/Resmakor/LeetCode/tree/master/1670-patients-with-a-condition) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Resmakor/LeetCode/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1801-average-time-of-process-per-machine](https://github.com/Resmakor/LeetCode/tree/master/1801-average-time-of-process-per-machine) |
+| [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/Resmakor/LeetCode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [2024-calculate-special-bonus](https://github.com/Resmakor/LeetCode/tree/master/2024-calculate-special-bonus) |
 | [2057-count-salary-categories](https://github.com/Resmakor/LeetCode/tree/master/2057-count-salary-categories) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Resmakor/LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |
