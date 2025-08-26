@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1542-consecutive-characters](https://github.com/Resmakor/LeetCode/tree/master/1542-consecutive-characters) |
 | [1666-make-the-string-great](https://github.com/Resmakor/LeetCode/tree/master/1666-make-the-string-great) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Resmakor/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1812-reformat-phone-number](https://github.com/Resmakor/LeetCode/tree/master/1812-reformat-phone-number) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Resmakor/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2032-largest-odd-number-in-string](https://github.com/Resmakor/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2154-minimum-moves-to-convert-string](https://github.com/Resmakor/LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
