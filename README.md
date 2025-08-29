@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Resmakor/LeetCode/tree/master/0506-relative-ranks) |
 | [0724-find-pivot-index](https://github.com/Resmakor/LeetCode/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Resmakor/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0747-min-cost-climbing-stairs](https://github.com/Resmakor/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0777-toeplitz-matrix](https://github.com/Resmakor/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/Resmakor/LeetCode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/Resmakor/LeetCode/tree/master/0890-lemonade-change) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0747-min-cost-climbing-stairs](https://github.com/Resmakor/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1086-divisor-game](https://github.com/Resmakor/LeetCode/tree/master/1086-divisor-game) |
 ## Brainteaser
 |  |
