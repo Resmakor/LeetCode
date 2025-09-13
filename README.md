@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Resmakor/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Resmakor/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Resmakor/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0268-missing-number](https://github.com/Resmakor/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Resmakor/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Resmakor/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/Resmakor/LeetCode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Resmakor/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Resmakor/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Resmakor/LeetCode/tree/master/0014-longest-common-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Resmakor/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
