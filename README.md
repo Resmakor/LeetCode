@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/Resmakor/LeetCode/tree/master/0979-di-string-match) |
 | [1041-available-captures-for-rook](https://github.com/Resmakor/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [1127-last-stone-weight](https://github.com/Resmakor/LeetCode/tree/master/1127-last-stone-weight) |
+| [1256-rank-transform-of-an-array](https://github.com/Resmakor/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/Resmakor/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/Resmakor/LeetCode/tree/master/1382-calculate-amount-paid-in-taxes) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Resmakor/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Resmakor/LeetCode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Resmakor/LeetCode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Resmakor/LeetCode/tree/master/0506-relative-ranks) |
+| [1256-rank-transform-of-an-array](https://github.com/Resmakor/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/Resmakor/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Resmakor/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Resmakor/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/Resmakor/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0817-design-hashmap](https://github.com/Resmakor/LeetCode/tree/master/0817-design-hashmap) |
 | [0965-unique-email-addresses](https://github.com/Resmakor/LeetCode/tree/master/0965-unique-email-addresses) |
+| [1256-rank-transform-of-an-array](https://github.com/Resmakor/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1297-maximum-number-of-balloons](https://github.com/Resmakor/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Resmakor/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Resmakor/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
