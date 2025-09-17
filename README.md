@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-count-distinct-numbers-on-board](https://github.com/Resmakor/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2698-find-the-array-concatenation-value](https://github.com/Resmakor/LeetCode/tree/master/2698-find-the-array-concatenation-value) |
 | [2902-max-pair-sum-in-an-array](https://github.com/Resmakor/LeetCode/tree/master/2902-max-pair-sum-in-an-array) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Resmakor/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Resmakor/LeetCode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Resmakor/LeetCode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Resmakor/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
