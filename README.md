@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Resmakor/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/Resmakor/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/Resmakor/LeetCode/tree/master/1382-calculate-amount-paid-in-taxes) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Resmakor/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Resmakor/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Resmakor/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Resmakor/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-unique-email-addresses](https://github.com/Resmakor/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1256-rank-transform-of-an-array](https://github.com/Resmakor/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1297-maximum-number-of-balloons](https://github.com/Resmakor/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Resmakor/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Resmakor/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Resmakor/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Resmakor/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/Resmakor/LeetCode/tree/master/0495-teemo-attacking) |
 | [1041-available-captures-for-rook](https://github.com/Resmakor/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/Resmakor/LeetCode/tree/master/1382-calculate-amount-paid-in-taxes) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Resmakor/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2058-concatenation-of-array](https://github.com/Resmakor/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Resmakor/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Resmakor/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0777-toeplitz-matrix](https://github.com/Resmakor/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [1041-available-captures-for-rook](https://github.com/Resmakor/LeetCode/tree/master/1041-available-captures-for-rook) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Resmakor/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Resmakor/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Resmakor/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Resmakor/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
