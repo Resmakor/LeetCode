@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Resmakor/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2032-largest-odd-number-in-string](https://github.com/Resmakor/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2154-minimum-moves-to-convert-string](https://github.com/Resmakor/LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
+| [2173-number-of-valid-words-in-a-sentence](https://github.com/Resmakor/LeetCode/tree/master/2173-number-of-valid-words-in-a-sentence) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Resmakor/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2226-rings-and-rods](https://github.com/Resmakor/LeetCode/tree/master/2226-rings-and-rods) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Resmakor/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
