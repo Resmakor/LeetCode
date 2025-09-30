@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3832-minimum-cost-to-reach-every-position](https://github.com/Resmakor/LeetCode/tree/master/3832-minimum-cost-to-reach-every-position) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Resmakor/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Resmakor/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Resmakor/LeetCode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Resmakor/LeetCode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Resmakor/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/Resmakor/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Resmakor/LeetCode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0899-binary-gap](https://github.com/Resmakor/LeetCode/tree/master/0899-binary-gap) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Resmakor/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Resmakor/LeetCode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Resmakor/LeetCode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Enumeration
 |  |
 | ------- |
