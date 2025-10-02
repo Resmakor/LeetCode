@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Resmakor/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Resmakor/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Resmakor/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2350-find-closest-number-to-zero](https://github.com/Resmakor/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Resmakor/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Resmakor/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Resmakor/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
