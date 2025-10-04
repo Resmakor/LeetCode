@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3832-minimum-cost-to-reach-every-position](https://github.com/Resmakor/LeetCode/tree/master/3832-minimum-cost-to-reach-every-position) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Resmakor/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Resmakor/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Resmakor/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Resmakor/LeetCode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Sorting
 |  |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Resmakor/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3859-maximum-product-of-two-digits](https://github.com/Resmakor/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Resmakor/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Resmakor/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Resmakor/LeetCode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## String
 |  |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Resmakor/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Resmakor/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Resmakor/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Resmakor/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Sliding Window
 |  |
 | ------- |
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3778-transform-array-by-parity](https://github.com/Resmakor/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Resmakor/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Resmakor/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Resmakor/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -445,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/Resmakor/LeetCode/tree/master/2083-three-divisors) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Resmakor/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Resmakor/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Resmakor/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Interactive
 |  |
 | ------- |
