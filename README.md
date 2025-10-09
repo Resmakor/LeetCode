@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Resmakor/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1812-reformat-phone-number](https://github.com/Resmakor/LeetCode/tree/master/1812-reformat-phone-number) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Resmakor/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1904-second-largest-digit-in-a-string](https://github.com/Resmakor/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Resmakor/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2032-largest-odd-number-in-string](https://github.com/Resmakor/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2154-minimum-moves-to-convert-string](https://github.com/Resmakor/LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Resmakor/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Resmakor/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Resmakor/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1904-second-largest-digit-in-a-string](https://github.com/Resmakor/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Resmakor/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Resmakor/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2226-rings-and-rods](https://github.com/Resmakor/LeetCode/tree/master/2226-rings-and-rods) |
