@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Resmakor/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Resmakor/LeetCode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Resmakor/LeetCode/tree/master/0412-fizz-buzz) |
+| [0520-detect-capital](https://github.com/Resmakor/LeetCode/tree/master/0520-detect-capital) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Resmakor/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Resmakor/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0965-unique-email-addresses](https://github.com/Resmakor/LeetCode/tree/master/0965-unique-email-addresses) |
