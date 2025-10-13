@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Resmakor/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Resmakor/LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Resmakor/LeetCode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Resmakor/LeetCode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Sorting
 |  |
 | ------- |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Resmakor/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Resmakor/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Resmakor/LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Resmakor/LeetCode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Resmakor/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Resmakor/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Resmakor/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Resmakor/LeetCode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Prefix Sum
 |  |
 | ------- |
