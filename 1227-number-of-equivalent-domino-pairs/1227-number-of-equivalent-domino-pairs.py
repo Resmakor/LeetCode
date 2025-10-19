@@ -7,7 +7,10 @@ class Solution(object):
         sorted_freq = {}
         output = 0
         for domino in dominoes:
-            sorted_domino = tuple(sorted(domino))
+            if domino[0] > domino[1]:
+                sorted_domino = tuple([domino[1], domino[0]])
+            else:
+                sorted_domino = tuple([domino[0], domino[1]])
             if sorted_domino in sorted_freq.keys():
                 sorted_freq[sorted_domino] += 1
             else:
