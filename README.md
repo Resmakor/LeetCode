@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Resmakor/LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Resmakor/LeetCode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Resmakor/LeetCode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/Resmakor/LeetCode/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
 | ------- |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Resmakor/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Resmakor/LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Resmakor/LeetCode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/Resmakor/LeetCode/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Sliding Window
 |  |
 | ------- |
