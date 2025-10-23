@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3811-reverse-degree-of-a-string](https://github.com/Resmakor/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Resmakor/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Resmakor/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4052-equal-score-substrings](https://github.com/Resmakor/LeetCode/tree/master/4052-equal-score-substrings) |
 ## Greedy
 |  |
 | ------- |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Resmakor/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Resmakor/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Resmakor/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
+| [4052-equal-score-substrings](https://github.com/Resmakor/LeetCode/tree/master/4052-equal-score-substrings) |
 ## Geometry
 |  |
 | ------- |
