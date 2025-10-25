@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Resmakor/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Resmakor/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Resmakor/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
+| [1751-slowest-key](https://github.com/Resmakor/LeetCode/tree/master/1751-slowest-key) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Resmakor/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Resmakor/LeetCode/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2058-concatenation-of-array](https://github.com/Resmakor/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-increasing-decreasing-string](https://github.com/Resmakor/LeetCode/tree/master/1472-increasing-decreasing-string) |
 | [1542-consecutive-characters](https://github.com/Resmakor/LeetCode/tree/master/1542-consecutive-characters) |
 | [1666-make-the-string-great](https://github.com/Resmakor/LeetCode/tree/master/1666-make-the-string-great) |
+| [1751-slowest-key](https://github.com/Resmakor/LeetCode/tree/master/1751-slowest-key) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Resmakor/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1812-reformat-phone-number](https://github.com/Resmakor/LeetCode/tree/master/1812-reformat-phone-number) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Resmakor/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
