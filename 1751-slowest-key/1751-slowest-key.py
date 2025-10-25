@@ -9,7 +9,6 @@ class Solution(object):
         curr_time, max_time = releaseTimes[0], releaseTimes[0]
         for i in range(1, len(releaseTimes)):
             curr_time = releaseTimes[i] - releaseTimes[i - 1]
-            print(curr_time, releaseTimes[i], releaseTimes[i - 1])
             if curr_time > max_time:
                 output.clear()
                 output.add(keysPressed[i])
