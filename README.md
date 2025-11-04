@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-unique-email-addresses](https://github.com/Resmakor/LeetCode/tree/master/0965-unique-email-addresses) |
 | [0979-di-string-match](https://github.com/Resmakor/LeetCode/tree/master/0979-di-string-match) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Resmakor/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
+| [1018-largest-perimeter-triangle](https://github.com/Resmakor/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1041-available-captures-for-rook](https://github.com/Resmakor/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [1127-last-stone-weight](https://github.com/Resmakor/LeetCode/tree/master/1127-last-stone-weight) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Resmakor/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Resmakor/LeetCode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Resmakor/LeetCode/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/Resmakor/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1018-largest-perimeter-triangle](https://github.com/Resmakor/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1256-rank-transform-of-an-array](https://github.com/Resmakor/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/Resmakor/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Resmakor/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Resmakor/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0830-largest-triangle-area](https://github.com/Resmakor/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0944-smallest-range-i](https://github.com/Resmakor/LeetCode/tree/master/0944-smallest-range-i) |
+| [1018-largest-perimeter-triangle](https://github.com/Resmakor/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1086-divisor-game](https://github.com/Resmakor/LeetCode/tree/master/1086-divisor-game) |
 | [1289-day-of-the-week](https://github.com/Resmakor/LeetCode/tree/master/1289-day-of-the-week) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Resmakor/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Resmakor/LeetCode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/Resmakor/LeetCode/tree/master/0890-lemonade-change) |
 | [0979-di-string-match](https://github.com/Resmakor/LeetCode/tree/master/0979-di-string-match) |
+| [1018-largest-perimeter-triangle](https://github.com/Resmakor/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Resmakor/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Resmakor/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/Resmakor/LeetCode/tree/master/2032-largest-odd-number-in-string) |
