@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Resmakor/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/Resmakor/LeetCode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/Resmakor/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Resmakor/LeetCode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Resmakor/LeetCode/tree/master/0257-binary-tree-paths) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Resmakor/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Resmakor/LeetCode/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/Resmakor/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Resmakor/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Resmakor/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
