@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/Resmakor/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Resmakor/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Resmakor/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Resmakor/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Resmakor/LeetCode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Resmakor/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Resmakor/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Resmakor/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Resmakor/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Resmakor/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Resmakor/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Resmakor/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Resmakor/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Resmakor/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Resmakor/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2226-rings-and-rods](https://github.com/Resmakor/LeetCode/tree/master/2226-rings-and-rods) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Resmakor/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Resmakor/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Resmakor/LeetCode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Resmakor/LeetCode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2433-best-poker-hand](https://github.com/Resmakor/LeetCode/tree/master/2433-best-poker-hand) |
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Resmakor/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Resmakor/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Resmakor/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Resmakor/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Resmakor/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Resmakor/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2698-find-the-array-concatenation-value](https://github.com/Resmakor/LeetCode/tree/master/2698-find-the-array-concatenation-value) |
