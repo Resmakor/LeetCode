@@ -4,8 +4,4 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
-        row = 1
-        while n >= row:
-            n -= row
-            row += 1
-        return row - 1
+        return int(-0.5 + (sqrt(8 * n + 1) / 2))
