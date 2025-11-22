@@ -5,11 +5,7 @@ class Solution(object):
         :rtype: int
         """
         output = 0
-        for element in nums:
-            if element % 3 == 0:
-                continue
-            elif (element + 1) % 3 == 0 or (element - 1) % 3 == 0:
+        for num in nums:
+            if num % 3 != 0:
                 output += 1
-            else:
-                output += 2
         return output
