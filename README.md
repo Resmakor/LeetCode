@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/Resmakor/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Resmakor/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1086-divisor-game](https://github.com/Resmakor/LeetCode/tree/master/1086-divisor-game) |
+| [1154-day-of-the-year](https://github.com/Resmakor/LeetCode/tree/master/1154-day-of-the-year) |
 | [1289-day-of-the-week](https://github.com/Resmakor/LeetCode/tree/master/1289-day-of-the-week) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Resmakor/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Resmakor/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-unique-email-addresses](https://github.com/Resmakor/LeetCode/tree/master/0965-unique-email-addresses) |
 | [0979-di-string-match](https://github.com/Resmakor/LeetCode/tree/master/0979-di-string-match) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Resmakor/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
+| [1154-day-of-the-year](https://github.com/Resmakor/LeetCode/tree/master/1154-day-of-the-year) |
 | [1156-occurrences-after-bigram](https://github.com/Resmakor/LeetCode/tree/master/1156-occurrences-after-bigram) |
 | [1283-reformat-date](https://github.com/Resmakor/LeetCode/tree/master/1283-reformat-date) |
 | [1297-maximum-number-of-balloons](https://github.com/Resmakor/LeetCode/tree/master/1297-maximum-number-of-balloons) |
