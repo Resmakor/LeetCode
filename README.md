@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3324-split-the-array](https://github.com/Resmakor/LeetCode/tree/master/3324-split-the-array) |
 | [3330-modify-the-matrix](https://github.com/Resmakor/LeetCode/tree/master/3330-modify-the-matrix) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Resmakor/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Resmakor/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3463-alternating-groups-i](https://github.com/Resmakor/LeetCode/tree/master/3463-alternating-groups-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Resmakor/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Resmakor/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Resmakor/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/Resmakor/LeetCode/tree/master/2955-account-balance-after-rounded-purchase) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Resmakor/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Resmakor/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Resmakor/LeetCode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Resmakor/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Resmakor/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Resmakor/LeetCode/tree/master/0724-find-pivot-index) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Resmakor/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Resmakor/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Resmakor/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Resmakor/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Resmakor/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
 | [4052-equal-score-substrings](https://github.com/Resmakor/LeetCode/tree/master/4052-equal-score-substrings) |
