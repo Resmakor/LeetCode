@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Resmakor/LeetCode/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/Resmakor/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Resmakor/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0645-set-mismatch](https://github.com/Resmakor/LeetCode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Resmakor/LeetCode/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Resmakor/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/Resmakor/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Resmakor/LeetCode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Resmakor/LeetCode/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/Resmakor/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0645-set-mismatch](https://github.com/Resmakor/LeetCode/tree/master/0645-set-mismatch) |
 | [1018-largest-perimeter-triangle](https://github.com/Resmakor/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1256-rank-transform-of-an-array](https://github.com/Resmakor/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/Resmakor/LeetCode/tree/master/1306-minimum-absolute-difference) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/Resmakor/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0594-longest-harmonious-subsequence](https://github.com/Resmakor/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Resmakor/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0645-set-mismatch](https://github.com/Resmakor/LeetCode/tree/master/0645-set-mismatch) |
 | [0817-design-hashmap](https://github.com/Resmakor/LeetCode/tree/master/0817-design-hashmap) |
 | [0965-unique-email-addresses](https://github.com/Resmakor/LeetCode/tree/master/0965-unique-email-addresses) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Resmakor/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
@@ -545,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Resmakor/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Resmakor/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Resmakor/LeetCode/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/Resmakor/LeetCode/tree/master/0645-set-mismatch) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Resmakor/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0899-binary-gap](https://github.com/Resmakor/LeetCode/tree/master/0899-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Resmakor/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
