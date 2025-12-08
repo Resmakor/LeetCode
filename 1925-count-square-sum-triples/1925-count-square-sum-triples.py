@@ -1,4 +1,3 @@
-import math
 class Solution(object):
     def countTriples(self, n):
         """
@@ -6,9 +5,10 @@ class Solution(object):
         :rtype: int
         """
         output = 0
-        for i in range(1, n):
-            for j in range(i + 1, n):
-                c = math.sqrt(i ** 2 + j ** 2)
-                if c <= n and c == int(c):
-                    output += 2
+        for a in range(1, n + 1):
+            for b in range(1, n + 1):
+                c_sq = a * a + b * b
+                c = int(sqrt(c_sq))
+                if c * c == c_sq and c <= n:
+                    output += 1
         return output
