@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/Resmakor/LeetCode/tree/master/1086-divisor-game) |
 | [1154-day-of-the-year](https://github.com/Resmakor/LeetCode/tree/master/1154-day-of-the-year) |
 | [1289-day-of-the-week](https://github.com/Resmakor/LeetCode/tree/master/1289-day-of-the-week) |
+| [1360-number-of-days-between-two-dates](https://github.com/Resmakor/LeetCode/tree/master/1360-number-of-days-between-two-dates) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Resmakor/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Resmakor/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Resmakor/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-reformat-date](https://github.com/Resmakor/LeetCode/tree/master/1283-reformat-date) |
 | [1297-maximum-number-of-balloons](https://github.com/Resmakor/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Resmakor/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1360-number-of-days-between-two-dates](https://github.com/Resmakor/LeetCode/tree/master/1360-number-of-days-between-two-dates) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Resmakor/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1472-increasing-decreasing-string](https://github.com/Resmakor/LeetCode/tree/master/1472-increasing-decreasing-string) |
 | [1542-consecutive-characters](https://github.com/Resmakor/LeetCode/tree/master/1542-consecutive-characters) |
