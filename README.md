@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Resmakor/LeetCode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Resmakor/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Resmakor/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Resmakor/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Resmakor/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3817-maximum-containers-on-a-ship](https://github.com/Resmakor/LeetCode/tree/master/3817-maximum-containers-on-a-ship) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Resmakor/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Resmakor/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Resmakor/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3617-find-the-original-typed-string-i](https://github.com/Resmakor/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Resmakor/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Resmakor/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Resmakor/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/Resmakor/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/Resmakor/LeetCode/tree/master/2634-minimum-common-value) |
 | [2698-find-the-array-concatenation-value](https://github.com/Resmakor/LeetCode/tree/master/2698-find-the-array-concatenation-value) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Resmakor/LeetCode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Resmakor/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -568,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/Resmakor/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Resmakor/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Resmakor/LeetCode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Resmakor/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Resmakor/LeetCode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Enumeration
 |  |
