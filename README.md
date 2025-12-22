@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Resmakor/LeetCode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/Resmakor/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/Resmakor/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Resmakor/LeetCode/tree/master/0412-fizz-buzz) |
@@ -654,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Resmakor/LeetCode/tree/master/0070-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/Resmakor/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1086-divisor-game](https://github.com/Resmakor/LeetCode/tree/master/1086-divisor-game) |
 ## Brainteaser
@@ -722,4 +724,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Resmakor/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Resmakor/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
