@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2902-max-pair-sum-in-an-array](https://github.com/Resmakor/LeetCode/tree/master/2902-max-pair-sum-in-an-array) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/Resmakor/LeetCode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/Resmakor/LeetCode/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Resmakor/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Resmakor/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3164-last-visited-integers](https://github.com/Resmakor/LeetCode/tree/master/3164-last-visited-integers) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Resmakor/LeetCode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Resmakor/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Resmakor/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Resmakor/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Resmakor/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Resmakor/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3778-transform-array-by-parity](https://github.com/Resmakor/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3859-maximum-product-of-two-digits](https://github.com/Resmakor/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Resmakor/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Resmakor/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Resmakor/LeetCode/tree/master/2715-k-items-with-the-maximum-sum) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Resmakor/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Resmakor/LeetCode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Resmakor/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Resmakor/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
