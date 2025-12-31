@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Resmakor/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Resmakor/LeetCode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Resmakor/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/Resmakor/LeetCode/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Resmakor/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Resmakor/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Resmakor/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3136-valid-word](https://github.com/Resmakor/LeetCode/tree/master/3136-valid-word) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Resmakor/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Resmakor/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/Resmakor/LeetCode/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3617-find-the-original-typed-string-i](https://github.com/Resmakor/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Resmakor/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Resmakor/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
