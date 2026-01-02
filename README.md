@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0607-sales-person](https://github.com/Resmakor/LeetCode/tree/master/0607-sales-person) |
 | [0608-tree-node](https://github.com/Resmakor/LeetCode/tree/master/0608-tree-node) |
 | [1135-customers-who-bought-all-products](https://github.com/Resmakor/LeetCode/tree/master/1135-customers-who-bought-all-products) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/Resmakor/LeetCode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1161-project-employees-i](https://github.com/Resmakor/LeetCode/tree/master/1161-project-employees-i) |
 | [1174-sales-analysis-iii](https://github.com/Resmakor/LeetCode/tree/master/1174-sales-analysis-iii) |
 | [1301-reformat-department-table](https://github.com/Resmakor/LeetCode/tree/master/1301-reformat-department-table) |
