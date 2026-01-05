@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3745-maximize-expression-of-three-elements](https://github.com/Resmakor/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Resmakor/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Resmakor/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Resmakor/LeetCode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3778-transform-array-by-parity](https://github.com/Resmakor/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/Resmakor/LeetCode/tree/master/3832-minimum-cost-to-reach-every-position) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Resmakor/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Resmakor/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Resmakor/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Resmakor/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Resmakor/LeetCode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3778-transform-array-by-parity](https://github.com/Resmakor/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3859-maximum-product-of-two-digits](https://github.com/Resmakor/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Resmakor/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
