@@ -1,9 +1,7 @@
 class Solution:
     def largestEven(self, s: str) -> str:
-        while len(s) > 0:
-            if int(s[-1]) % 2 == 1:
-                s = s[:len(s) - 1]
-            else:
-                return s
-        return s
+        for i in range(len(s) - 1, -1, -1):
+            if int(s[i]) % 2 == 0:
+                return s[:i + 1]
+        return ""
 
