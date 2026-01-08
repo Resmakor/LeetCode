@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/Resmakor/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1666-make-the-string-great](https://github.com/Resmakor/LeetCode/tree/master/1666-make-the-string-great) |
 | [1751-slowest-key](https://github.com/Resmakor/LeetCode/tree/master/1751-slowest-key) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Resmakor/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Resmakor/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1812-reformat-phone-number](https://github.com/Resmakor/LeetCode/tree/master/1812-reformat-phone-number) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Resmakor/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Resmakor/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1472-increasing-decreasing-string](https://github.com/Resmakor/LeetCode/tree/master/1472-increasing-decreasing-string) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Resmakor/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Resmakor/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Resmakor/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/Resmakor/LeetCode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Resmakor/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Resmakor/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1472-increasing-decreasing-string](https://github.com/Resmakor/LeetCode/tree/master/1472-increasing-decreasing-string) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Resmakor/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Resmakor/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1854-maximum-population-year](https://github.com/Resmakor/LeetCode/tree/master/1854-maximum-population-year) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Resmakor/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Resmakor/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
