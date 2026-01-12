@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Resmakor/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0263-ugly-number](https://github.com/Resmakor/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Resmakor/LeetCode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Resmakor/LeetCode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/Resmakor/LeetCode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Resmakor/LeetCode/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/Resmakor/LeetCode/tree/master/0492-construct-the-rectangle) |
@@ -693,11 +694,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Resmakor/LeetCode/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/Resmakor/LeetCode/tree/master/1086-divisor-game) |
 | [2481-strictly-palindromic-number](https://github.com/Resmakor/LeetCode/tree/master/2481-strictly-palindromic-number) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Resmakor/LeetCode/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/Resmakor/LeetCode/tree/master/1086-divisor-game) |
 ## Concurrency
 |  |
