@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3463-alternating-groups-i](https://github.com/Resmakor/LeetCode/tree/master/3463-alternating-groups-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Resmakor/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Resmakor/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3637-trionic-array-i](https://github.com/Resmakor/LeetCode/tree/master/3637-trionic-array-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Resmakor/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Resmakor/LeetCode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Resmakor/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
