@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-minimum-distance-to-the-target-element](https://github.com/Resmakor/LeetCode/tree/master/1975-minimum-distance-to-the-target-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Resmakor/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2058-concatenation-of-array](https://github.com/Resmakor/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Resmakor/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Resmakor/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Resmakor/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Resmakor/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Resmakor/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Resmakor/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Resmakor/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Resmakor/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Resmakor/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Resmakor/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Resmakor/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1904-second-largest-digit-in-a-string](https://github.com/Resmakor/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/Resmakor/LeetCode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Resmakor/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Resmakor/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Resmakor/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2226-rings-and-rods](https://github.com/Resmakor/LeetCode/tree/master/2226-rings-and-rods) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Resmakor/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -669,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0506-relative-ranks](https://github.com/Resmakor/LeetCode/tree/master/0506-relative-ranks) |
 | [1127-last-stone-weight](https://github.com/Resmakor/LeetCode/tree/master/1127-last-stone-weight) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Resmakor/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Resmakor/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Resmakor/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Binary Search Tree
