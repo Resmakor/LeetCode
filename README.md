@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Resmakor/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3637-trionic-array-i](https://github.com/Resmakor/LeetCode/tree/master/3637-trionic-array-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Resmakor/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Resmakor/LeetCode/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Resmakor/LeetCode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Resmakor/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3723-sum-of-good-numbers](https://github.com/Resmakor/LeetCode/tree/master/3723-sum-of-good-numbers) |
@@ -622,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/Resmakor/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Resmakor/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Resmakor/LeetCode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Resmakor/LeetCode/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Resmakor/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Resmakor/LeetCode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Enumeration
@@ -716,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Resmakor/LeetCode/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/Resmakor/LeetCode/tree/master/1086-divisor-game) |
 | [2481-strictly-palindromic-number](https://github.com/Resmakor/LeetCode/tree/master/2481-strictly-palindromic-number) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Resmakor/LeetCode/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Game Theory
 |  |
 | ------- |
