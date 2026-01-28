@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Resmakor/LeetCode/tree/master/0792-binary-search) |
 | [0806-number-of-lines-to-write-string](https://github.com/Resmakor/LeetCode/tree/master/0806-number-of-lines-to-write-string) |
 | [0817-design-hashmap](https://github.com/Resmakor/LeetCode/tree/master/0817-design-hashmap) |
+| [0819-most-common-word](https://github.com/Resmakor/LeetCode/tree/master/0819-most-common-word) |
 | [0830-largest-triangle-area](https://github.com/Resmakor/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0890-lemonade-change](https://github.com/Resmakor/LeetCode/tree/master/0890-lemonade-change) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Resmakor/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/Resmakor/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Resmakor/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0806-number-of-lines-to-write-string](https://github.com/Resmakor/LeetCode/tree/master/0806-number-of-lines-to-write-string) |
+| [0819-most-common-word](https://github.com/Resmakor/LeetCode/tree/master/0819-most-common-word) |
 | [0844-backspace-string-compare](https://github.com/Resmakor/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0965-unique-email-addresses](https://github.com/Resmakor/LeetCode/tree/master/0965-unique-email-addresses) |
 | [0979-di-string-match](https://github.com/Resmakor/LeetCode/tree/master/0979-di-string-match) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Resmakor/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/Resmakor/LeetCode/tree/master/0645-set-mismatch) |
 | [0817-design-hashmap](https://github.com/Resmakor/LeetCode/tree/master/0817-design-hashmap) |
+| [0819-most-common-word](https://github.com/Resmakor/LeetCode/tree/master/0819-most-common-word) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Resmakor/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0965-unique-email-addresses](https://github.com/Resmakor/LeetCode/tree/master/0965-unique-email-addresses) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Resmakor/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
@@ -570,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/Resmakor/LeetCode/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/Resmakor/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0819-most-common-word](https://github.com/Resmakor/LeetCode/tree/master/0819-most-common-word) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Resmakor/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Resmakor/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1297-maximum-number-of-balloons](https://github.com/Resmakor/LeetCode/tree/master/1297-maximum-number-of-balloons) |
