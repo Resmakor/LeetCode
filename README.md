@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1041-available-captures-for-rook](https://github.com/Resmakor/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [1127-last-stone-weight](https://github.com/Resmakor/LeetCode/tree/master/1127-last-stone-weight) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Resmakor/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Resmakor/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1256-rank-transform-of-an-array](https://github.com/Resmakor/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1287-distance-between-bus-stops](https://github.com/Resmakor/LeetCode/tree/master/1287-distance-between-bus-stops) |
 | [1306-minimum-absolute-difference](https://github.com/Resmakor/LeetCode/tree/master/1306-minimum-absolute-difference) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Resmakor/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1086-divisor-game](https://github.com/Resmakor/LeetCode/tree/master/1086-divisor-game) |
 | [1154-day-of-the-year](https://github.com/Resmakor/LeetCode/tree/master/1154-day-of-the-year) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Resmakor/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1289-day-of-the-week](https://github.com/Resmakor/LeetCode/tree/master/1289-day-of-the-week) |
 | [1360-number-of-days-between-two-dates](https://github.com/Resmakor/LeetCode/tree/master/1360-number-of-days-between-two-dates) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Resmakor/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Resmakor/LeetCode/tree/master/0830-largest-triangle-area) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Resmakor/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Resmakor/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 ## Bit Manipulation
 |  |
