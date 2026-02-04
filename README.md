@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Resmakor/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3798-largest-even-number](https://github.com/Resmakor/LeetCode/tree/master/3798-largest-even-number) |
 | [3811-reverse-degree-of-a-string](https://github.com/Resmakor/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Resmakor/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Resmakor/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Resmakor/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3934-coupon-code-validator](https://github.com/Resmakor/LeetCode/tree/master/3934-coupon-code-validator) |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2698-find-the-array-concatenation-value](https://github.com/Resmakor/LeetCode/tree/master/2698-find-the-array-concatenation-value) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Resmakor/LeetCode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Resmakor/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Resmakor/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Resmakor/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Resmakor/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/Resmakor/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Resmakor/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Resmakor/LeetCode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Counting
 |  |
