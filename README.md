@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3324-split-the-array](https://github.com/Resmakor/LeetCode/tree/master/3324-split-the-array) |
 | [3330-modify-the-matrix](https://github.com/Resmakor/LeetCode/tree/master/3330-modify-the-matrix) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Resmakor/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3379-transformed-array](https://github.com/Resmakor/LeetCode/tree/master/3379-transformed-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Resmakor/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3463-alternating-groups-i](https://github.com/Resmakor/LeetCode/tree/master/3463-alternating-groups-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Resmakor/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2698-find-the-array-concatenation-value](https://github.com/Resmakor/LeetCode/tree/master/2698-find-the-array-concatenation-value) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/Resmakor/LeetCode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3164-last-visited-integers](https://github.com/Resmakor/LeetCode/tree/master/3164-last-visited-integers) |
+| [3379-transformed-array](https://github.com/Resmakor/LeetCode/tree/master/3379-transformed-array) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Resmakor/LeetCode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Resmakor/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Resmakor/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
