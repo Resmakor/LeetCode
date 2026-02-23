@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Resmakor/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Resmakor/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Resmakor/LeetCode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Resmakor/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Resmakor/LeetCode/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/Resmakor/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/Resmakor/LeetCode/tree/master/0520-detect-capital) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Resmakor/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Resmakor/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Resmakor/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/Resmakor/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Resmakor/LeetCode/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/Resmakor/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0844-backspace-string-compare](https://github.com/Resmakor/LeetCode/tree/master/0844-backspace-string-compare) |
@@ -738,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Resmakor/LeetCode/tree/master/0070-climbing-stairs) |
+| [0392-is-subsequence](https://github.com/Resmakor/LeetCode/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/Resmakor/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1086-divisor-game](https://github.com/Resmakor/LeetCode/tree/master/1086-divisor-game) |
 ## Brainteaser
