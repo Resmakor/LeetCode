@@ -426,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Resmakor/LeetCode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1161-project-employees-i](https://github.com/Resmakor/LeetCode/tree/master/1161-project-employees-i) |
 | [1174-sales-analysis-iii](https://github.com/Resmakor/LeetCode/tree/master/1174-sales-analysis-iii) |
+| [1211-queries-quality-and-percentage](https://github.com/Resmakor/LeetCode/tree/master/1211-queries-quality-and-percentage) |
 | [1301-reformat-department-table](https://github.com/Resmakor/LeetCode/tree/master/1301-reformat-department-table) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/Resmakor/LeetCode/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1415-students-and-examinations](https://github.com/Resmakor/LeetCode/tree/master/1415-students-and-examinations) |
