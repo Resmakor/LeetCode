@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/Resmakor/LeetCode/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/Resmakor/LeetCode/tree/master/0819-most-common-word) |
 | [0844-backspace-string-compare](https://github.com/Resmakor/LeetCode/tree/master/0844-backspace-string-compare) |
+| [0859-buddy-strings](https://github.com/Resmakor/LeetCode/tree/master/0859-buddy-strings) |
 | [0965-unique-email-addresses](https://github.com/Resmakor/LeetCode/tree/master/0965-unique-email-addresses) |
 | [0979-di-string-match](https://github.com/Resmakor/LeetCode/tree/master/0979-di-string-match) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Resmakor/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Resmakor/LeetCode/tree/master/0645-set-mismatch) |
 | [0817-design-hashmap](https://github.com/Resmakor/LeetCode/tree/master/0817-design-hashmap) |
 | [0819-most-common-word](https://github.com/Resmakor/LeetCode/tree/master/0819-most-common-word) |
+| [0859-buddy-strings](https://github.com/Resmakor/LeetCode/tree/master/0859-buddy-strings) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Resmakor/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0965-unique-email-addresses](https://github.com/Resmakor/LeetCode/tree/master/0965-unique-email-addresses) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Resmakor/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
