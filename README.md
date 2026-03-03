@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2937-make-three-strings-equal](https://github.com/Resmakor/LeetCode/tree/master/2937-make-three-strings-equal) |
 | [3019-furthest-point-from-origin](https://github.com/Resmakor/LeetCode/tree/master/3019-furthest-point-from-origin) |
 | [3136-valid-word](https://github.com/Resmakor/LeetCode/tree/master/3136-valid-word) |
+| [3216-lexicographically-smallest-string-after-a-swap](https://github.com/Resmakor/LeetCode/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Resmakor/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Resmakor/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Resmakor/LeetCode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Resmakor/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Resmakor/LeetCode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Resmakor/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3216-lexicographically-smallest-string-after-a-swap](https://github.com/Resmakor/LeetCode/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Resmakor/LeetCode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Resmakor/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Resmakor/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
