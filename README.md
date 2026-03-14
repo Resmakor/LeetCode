@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Resmakor/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0806-number-of-lines-to-write-string](https://github.com/Resmakor/LeetCode/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/Resmakor/LeetCode/tree/master/0819-most-common-word) |
+| [0830-positions-of-large-groups](https://github.com/Resmakor/LeetCode/tree/master/0830-positions-of-large-groups) |
 | [0844-backspace-string-compare](https://github.com/Resmakor/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0859-buddy-strings](https://github.com/Resmakor/LeetCode/tree/master/0859-buddy-strings) |
 | [0965-unique-email-addresses](https://github.com/Resmakor/LeetCode/tree/master/0965-unique-email-addresses) |
