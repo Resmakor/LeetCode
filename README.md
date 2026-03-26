@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Resmakor/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3861-minimum-capacity-box](https://github.com/Resmakor/LeetCode/tree/master/3861-minimum-capacity-box) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Resmakor/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Resmakor/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Resmakor/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3934-coupon-code-validator](https://github.com/Resmakor/LeetCode/tree/master/3934-coupon-code-validator) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Resmakor/LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Resmakor/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3859-maximum-product-of-two-digits](https://github.com/Resmakor/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Resmakor/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Resmakor/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Resmakor/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Resmakor/LeetCode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [4039-compute-decimal-representation](https://github.com/Resmakor/LeetCode/tree/master/4039-compute-decimal-representation) |
