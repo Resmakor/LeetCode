@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Resmakor/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Resmakor/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Resmakor/LeetCode/tree/master/0392-is-subsequence) |
+| [0409-longest-palindrome](https://github.com/Resmakor/LeetCode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Resmakor/LeetCode/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/Resmakor/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/Resmakor/LeetCode/tree/master/0520-detect-capital) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0409-longest-palindrome](https://github.com/Resmakor/LeetCode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Resmakor/LeetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Resmakor/LeetCode/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/Resmakor/LeetCode/tree/master/0890-lemonade-change) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Resmakor/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Resmakor/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Resmakor/LeetCode/tree/master/0389-find-the-difference) |
+| [0409-longest-palindrome](https://github.com/Resmakor/LeetCode/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/Resmakor/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Resmakor/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0594-longest-harmonious-subsequence](https://github.com/Resmakor/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
