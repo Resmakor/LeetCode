@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Resmakor/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Resmakor/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Resmakor/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Resmakor/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/Resmakor/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Resmakor/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Resmakor/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Resmakor/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0463-island-perimeter](https://github.com/Resmakor/LeetCode/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/Resmakor/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Resmakor/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/Resmakor/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Resmakor/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Resmakor/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -759,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Resmakor/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Resmakor/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Resmakor/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Resmakor/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Resmakor/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0844-backspace-string-compare](https://github.com/Resmakor/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0933-increasing-order-search-tree](https://github.com/Resmakor/LeetCode/tree/master/0933-increasing-order-search-tree) |
