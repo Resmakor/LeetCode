@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3019-furthest-point-from-origin](https://github.com/Resmakor/LeetCode/tree/master/3019-furthest-point-from-origin) |
 | [3136-valid-word](https://github.com/Resmakor/LeetCode/tree/master/3136-valid-word) |
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/Resmakor/LeetCode/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Resmakor/LeetCode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Resmakor/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Resmakor/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Resmakor/LeetCode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Resmakor/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Resmakor/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Resmakor/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Resmakor/LeetCode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Resmakor/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3463-alternating-groups-i](https://github.com/Resmakor/LeetCode/tree/master/3463-alternating-groups-i) |
 ## Two Pointers
