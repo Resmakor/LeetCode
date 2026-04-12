@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1751-slowest-key](https://github.com/Resmakor/LeetCode/tree/master/1751-slowest-key) |
 | [1854-maximum-population-year](https://github.com/Resmakor/LeetCode/tree/master/1854-maximum-population-year) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Resmakor/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Resmakor/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Resmakor/LeetCode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Resmakor/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Resmakor/LeetCode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -726,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1041-available-captures-for-rook](https://github.com/Resmakor/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Resmakor/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Resmakor/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Resmakor/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Resmakor/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Resmakor/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Resmakor/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
