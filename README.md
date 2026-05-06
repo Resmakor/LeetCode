@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Resmakor/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/Resmakor/LeetCode/tree/master/2955-account-balance-after-rounded-purchase) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Resmakor/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/Resmakor/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Resmakor/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Resmakor/LeetCode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Resmakor/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -620,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2698-find-the-array-concatenation-value](https://github.com/Resmakor/LeetCode/tree/master/2698-find-the-array-concatenation-value) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/Resmakor/LeetCode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3164-last-visited-integers](https://github.com/Resmakor/LeetCode/tree/master/3164-last-visited-integers) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/Resmakor/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3379-transformed-array](https://github.com/Resmakor/LeetCode/tree/master/3379-transformed-array) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Resmakor/LeetCode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3582-generate-tag-for-video-caption](https://github.com/Resmakor/LeetCode/tree/master/3582-generate-tag-for-video-caption) |
@@ -799,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/Resmakor/LeetCode/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/Resmakor/LeetCode/tree/master/1086-divisor-game) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/Resmakor/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Concurrency
 |  |
 | ------- |
