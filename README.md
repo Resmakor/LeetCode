@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Resmakor/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Resmakor/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Resmakor/LeetCode/tree/master/0066-plus-one) |
+| [0119-pascals-triangle-ii](https://github.com/Resmakor/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Resmakor/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Resmakor/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Resmakor/LeetCode/tree/master/0283-move-zeroes) |
@@ -786,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Resmakor/LeetCode/tree/master/0070-climbing-stairs) |
+| [0119-pascals-triangle-ii](https://github.com/Resmakor/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0392-is-subsequence](https://github.com/Resmakor/LeetCode/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/Resmakor/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1086-divisor-game](https://github.com/Resmakor/LeetCode/tree/master/1086-divisor-game) |
